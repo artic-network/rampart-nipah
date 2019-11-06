@@ -45,3 +45,5 @@ rampart --protocol ../protocol
 ```
 
 The `run_configuration.json` file contains the settings for running this example data.
+
+Open a browser to view [http://localhost:3000](http://localhost:3000)
