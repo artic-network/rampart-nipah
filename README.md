@@ -1,4 +1,4 @@
-# rampart-ebov
+# rampart-nipah
 RAMPART protocol folder for Nipah and Hendra viruses
 
 ## Installing
