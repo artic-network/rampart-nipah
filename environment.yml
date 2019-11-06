@@ -1,0 +1,16 @@
+name: rampart-ebov
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - "python>=3"
+  - pip
+  - "nodejs>=12"
+  - biopython=1.74
+  - minimap2=2.17
+  - snakemake=5.7.4
+  - artic-network::rampart=1.0
+  - pip:
+    - binlorry==0.1
+    - git+https://github.com/artic-network/Porechop.git@v0.3.0pre
